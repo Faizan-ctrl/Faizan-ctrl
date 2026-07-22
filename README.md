@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faizan</h1>
+<h1 align="center">Hi, I'm Faizan</h1>
 <h3 align="center">CS/IT student building across GenAI, ML, and full-stack projects</h3>
 
 <p align="center">
