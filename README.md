@@ -1,4 +1,4 @@
-<img src="hero.svg" width="100%" alt="Faizan Ahmad, AI/ML builder. Night sky with a neural network constellation, a passing satellite and mountain ridges." />
+<img src="hero.svg" width="100%" alt="Faizan Ahmad, Aspiring AI/ML engineer. Night sky with a neural network constellation, a passing satellite and mountain ridges." />
 
 <p align="center"><i>I build AI that reads the world: satellite pixels, camera frames, mountain roads.</i></p>
 
