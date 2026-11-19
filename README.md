@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="Faizan Ahmad, AI/ML builder. Night sky with a neural network constellation, a passing satellite and mountain ridges." />
+<img src="hero.svg" width="100%" alt="Faizan Ahmad, AI/ML builder. Night sky with a neural network constellation, a passing satellite and mountain ridges." />
 
 <p align="center"><i>I build AI that reads the world: satellite pixels, camera frames, mountain roads.</i></p>
 
@@ -8,11 +8,11 @@
   <a href="https://github.com/Faizan-ctrl?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0A0A0A?style=for-the-badge&logo=github&logoColor=E5EE4E" alt="Repositories" /></a>
 </p>
 
-<img src="assets/sec-whoami.svg" width="100%" alt="~/whoami" />
-<img src="assets/terminal.svg" width="100%" alt="Terminal showing: AI/ML builder, CS student at UCP, AI intern at Gaotek, learning AWS, speaks English and Urdu, open to AI/ML internships." />
+<img src="sec-whoami.svg" width="100%" alt="~/whoami" />
+<img src="terminal.svg" width="100%" alt="Terminal showing: AI/ML builder, CS student at UCP, AI intern at Gaotek, learning AWS, speaks English and Urdu, open to AI/ML internships." />
 
-<img src="assets/sec-projects.svg" width="100%" alt="~/projects" />
-<img src="assets/orbit.svg" width="100%" alt="Orbit diagram of four projects: RouteLink, LitterLapse, GlacierWatch, Convertly." />
+<img src="sec-projects.svg" width="100%" alt="~/projects" />
+<img src="orbit.svg" width="100%" alt="Orbit diagram of four projects: RouteLink, LitterLapse, GlacierWatch, Convertly." />
 
 <table>
   <tr>
@@ -62,10 +62,10 @@
   </tr>
 </table>
 
-<img src="assets/sec-toolbox.svg" width="100%" alt="~/toolbox" />
-<img src="assets/constellation.svg" width="100%" alt="Skill constellation: ML and data, backend, frontend, cloud and tools." />
+<img src="sec-toolbox.svg" width="100%" alt="~/toolbox" />
+<img src="constellation.svg" width="100%" alt="Skill constellation: ML and data, backend, frontend, cloud and tools." />
 
-<img src="assets/sec-activity.svg" width="100%" alt="~/activity" />
+<img src="sec-activity.svg" width="100%" alt="~/activity" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faizan-ctrl&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=A21517&text_color=FFFFFF&icon_color=E5EE4E&ring_color=A21517" height="170" alt="GitHub stats" />
@@ -74,7 +74,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-ctrl&bg_color=0A0A0A&color=E5EE4E&line=A21517&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph" />
 
-<img src="assets/sec-contact.svg" width="100%" alt="~/contact" />
+<img src="sec-contact.svg" width="100%" alt="~/contact" />
 
 <p align="center"><b>Got a problem worth solving with AI? Let's talk.</b></p>
 <p align="center">
@@ -82,4 +82,4 @@
   <a href="https://www.linkedin.com/in/faizan-ahmad-b7044117b"><img src="https://img.shields.io/badge/connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E5EE4E" alt="Connect on LinkedIn" /></a>
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="Mountain ridges under a night sky: signal from the peaks." />
+<img src="footer.svg" width="100%" alt="Mountain ridges under a night sky: signal from the peaks." />
