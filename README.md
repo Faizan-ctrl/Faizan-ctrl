@@ -21,14 +21,14 @@ faizan@ucp:~$ whoami
   Faizan Ahmad (he/him)
 
 faizan@ucp:~$ cat profile.txt
-  role         AI/ML builder, CS student @ UCP
+  role         Aspiring AI/ML Engineer, CS student
   focus        computer vision · applied ML · full-stack AI apps
   internship   AI @ Gaotek (remote)
   learning     AWS cloud · deeper ML
   speaks       English · Urdu
   open to      AI/ML internships
 
-faizan@ucp:~$ ls shipped/
+faizan-ctrl:~$ ls shipped/
   RouteLink/   LitterLapse/   GlacierWatch/   Convertly/
 ```
 
