@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="1000" height="400" role="img" aria-label="Terminal window showing Faizan Ahmad's profile: AI/ML builder, CS student at UCP, AI intern at Gaotek, learning AWS, speaks English and Urdu.">
+<defs><clipPath id="c0"><rect x="30" y="68" width="940" height="26"><animate attributeName="width" keyTimes="0;0.040;0.075;0.95;0.97;1" values="0;0;940;940;0;0" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c1"><rect x="30" y="93" width="940" height="26"><animate attributeName="width" keyTimes="0;0.092;0.127;0.95;0.97;1" values="0;0;940;940;0;0" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c2"><rect x="30" y="118" width="940" height="26"><animate attributeName="width" keyTimes="0;0.143;0.178;0.95;0.97;1" values="0;0;940;940;0;0" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c3"><rect x="30" y="143" width="940" height="26"><animate attributeName="width" keyTimes="0;0.195;0.230;0.95;0.97;1" values="0;0;940;940;0;0" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c4"><rect x="30" y="168" width="940" height="26"><animate attributeName="width" keyTimes="0;0.247;0.282;0.95;0.97;1" values="0;0;940;940;0;0" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c5"><rect x="30" y="193" width="940" height="26"><animate attributeName="width" keyTimes="0;0.298;0.333;0.95;0.97;1" values="0;0;940;940;0;0" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c6"><rect x="30" y="218" width="940" height="26"><animate attributeName="width" keyTimes="0;0.350;0.385;0.95;0.97;1" values="0;0;940;940;0;0" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c7"><rect x="30" y="243" width="940" height="26"><animate attributeName="width" keyTimes="0;0.402;0.437;0.95;0.97;1" values="0;0;940;940;0;0" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c8"><rect x="30" y="268" width="940" height="26"><animate attributeName="width" keyTimes="0;0.453;0.488;0.95;0.97;1" values="0;0;940;940;0;0" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c9"><rect x="30" y="293" width="940" height="26"><animate attributeName="width" keyTimes="0;0.505;0.540;0.95;0.97;1" values="0;0;940;940;0;0" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c10"><rect x="30" y="318" width="940" height="26"><animate attributeName="width" keyTimes="0;0.557;0.592;0.95;0.97;1" values="0;0;940;940;0;0" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c11"><rect x="30" y="343" width="940" height="26"><animate attributeName="width" keyTimes="0;0.608;0.643;0.95;0.97;1" values="0;0;940;940;0;0" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".03"/></pattern>
+<linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A21517" stop-opacity=".25"/><stop offset="1" stop-color="#0A0A0A" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="398" rx="14" fill="#0e0c0d" stroke="#A21517" stroke-opacity=".8"/>
+<rect x="1" y="1" width="998" height="398" rx="14" fill="url(#glow)"/>
+<path d="M1 15 a14 14 0 0 1 14 -14 H985 a14 14 0 0 1 14 14 V44 H1 Z" fill="#171214"/>
+<circle cx="28" cy="23" r="6.5" fill="#A21517"/><circle cx="50" cy="23" r="6.5" fill="#E5EE4E"/><circle cx="72" cy="23" r="6.5" fill="#ECBDD8"/>
+<text x="500" y="28" text-anchor="middle" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#ECBDD8" opacity=".7">faizan@ucp: ~</text>
+<g clip-path="url(#c0)"><text x="34" y="88" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="17"><tspan fill="#E5EE4E">faizan@ucp:~$ </tspan><tspan fill="#fff">whoami</tspan></text></g>
+<g clip-path="url(#c1)"><text x="64" y="113" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#ECBDD8">Faizan Ahmad (he/him)</text></g>
+<g clip-path="url(#c2)"><text x="34" y="138" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="17"><tspan fill="#E5EE4E">faizan@ucp:~$ </tspan><tspan fill="#fff">cat profile.txt</tspan></text></g>
+<g clip-path="url(#c3)"><text x="64" y="163" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="17"><tspan fill="#E0494C" font-weight="700">role</tspan><tspan x="214" fill="#fff">AI/ML builder, CS student @ UCP</tspan></text></g>
+<g clip-path="url(#c4)"><text x="64" y="188" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="17"><tspan fill="#E0494C" font-weight="700">focus</tspan><tspan x="214" fill="#fff">computer vision · applied ML · full-stack AI</tspan></text></g>
+<g clip-path="url(#c5)"><text x="64" y="213" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="17"><tspan fill="#E0494C" font-weight="700">internship</tspan><tspan x="214" fill="#fff">AI @ Gaotek (remote)</tspan></text></g>
+<g clip-path="url(#c6)"><text x="64" y="238" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="17"><tspan fill="#E0494C" font-weight="700">learning</tspan><tspan x="214" fill="#fff">AWS cloud · deeper ML</tspan></text></g>
+<g clip-path="url(#c7)"><text x="64" y="263" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="17"><tspan fill="#E0494C" font-weight="700">speaks</tspan><tspan x="214" fill="#fff">English · Urdu</tspan></text></g>
+<g clip-path="url(#c8)"><text x="64" y="288" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="17"><tspan fill="#E0494C" font-weight="700">open to</tspan><tspan x="214" fill="#fff">AI/ML internships</tspan></text></g>
+<g clip-path="url(#c9)"><text x="34" y="313" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="17"><tspan fill="#E5EE4E">faizan@ucp:~$ </tspan><tspan fill="#fff">ls shipped/</tspan></text></g>
+<g clip-path="url(#c10)"><text x="64" y="338" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#ECBDD8">RouteLink/   LitterLapse/   GlacierWatch/   Convertly/</text></g>
+<g clip-path="url(#c11)"><text x="34" y="363" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="17"><tspan fill="#E5EE4E">faizan@ucp:~$ </tspan></text><rect x="177" y="349" width="10" height="19" fill="#E5EE4E"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect></g>
+
+<rect x="1" y="1" width="998" height="398" rx="14" fill="url(#scan)"/>
+</svg>
